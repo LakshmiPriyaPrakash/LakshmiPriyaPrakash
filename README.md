@@ -1,4 +1,7 @@
-### Hi there 👋
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+I'm Lakshmi, a full-stack developer with a keen eye for creating engaging content that bring products to life. I love working on everything from the server to the front-end and enjoy breaking down complex problems into simple nuggets of code. I have experience developing web applications that utilize React, Redux, and PostgreSQL.
+
+When not coding, I'm usually hiking, kayaking, or reading a modern fairy tale.
 
 <!--
 **LakshmiPriyaPrakash/LakshmiPriyaPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on full-stack projects
+- 💬 Ask me about: code and books
+- 📫 How to reach me: prakashlakshmipriya@gmail.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I have a wild imagination and love to whip up fanfiction.
